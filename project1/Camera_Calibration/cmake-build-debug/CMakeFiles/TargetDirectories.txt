@@ -1,3 +1,0 @@
-/Users/fuqiang/Desktop/CV_Project_1/Camera_Calibration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/fuqiang/Desktop/CV_Project_1/Camera_Calibration/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/fuqiang/Desktop/CV_Project_1/Camera_Calibration/cmake-build-debug/CMakeFiles/Camera_Calibration.dir
