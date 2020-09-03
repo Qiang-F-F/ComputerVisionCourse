@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fuqiang/Desktop/CV_Project_1/Camera_Calibration/Matrix_Calculation.cpp
+Matrix_Calculation.h
+/Users/fuqiang/Desktop/CV_Project_1/Camera_Calibration/Matrix_Calculation.h
+iostream
+-
+
+/Users/fuqiang/Desktop/CV_Project_1/Camera_Calibration/Matrix_Calculation.h
+vector
+-
+
