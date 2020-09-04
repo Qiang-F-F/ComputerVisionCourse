@@ -19,7 +19,7 @@ Perform camera calibration with RANSC.
 1. Calculate the fundamental matrix given all camera parameters and two images.
 2. Apply image rectification.
 ### Details
-TODO.  
+[See this PDF file](https://github.com/Qiang-F-F/ComputerVisionCourse/blob/master/Project2/report/main.pdf)  
 [back to TOC](#TOC)
 ## <span id="P3">Project3</span>
 ### Task
