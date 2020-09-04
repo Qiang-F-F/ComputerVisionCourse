@@ -11,7 +11,7 @@
 ### Task
 Perform camera calibration with RANSC.
 ### Details
-[TODO](https://github.com/Qiang-F-F/ComputerVisionCourse/blob/master/Project1/report/report.pdf)  
+[See this PDF file](https://github.com/Qiang-F-F/ComputerVisionCourse/blob/master/Project1/report/report.pdf)  
 [back to TOC](#TOC)
 
 ## <span id="P2">Project2</span>
