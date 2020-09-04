@@ -11,6 +11,7 @@
 ### Task
 Perform camera calibration with RANSC.
 ### Details
+$a^2$
 TODO  
 [back to TOC](#TOC)
 
