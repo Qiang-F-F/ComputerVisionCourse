@@ -11,9 +11,7 @@
 ### Task
 Perform camera calibration with RANSC.
 ### Details
-$a^2$
-![](https://render.githubusercontent.com/render/math?math=\begin{bmatrix}1&2\\3&4\end{bmatrix})
-TODO  
+[TODO](http)  
 [back to TOC](#TOC)
 
 ## <span id="P2">Project2</span>
